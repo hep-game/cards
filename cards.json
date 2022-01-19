@@ -18,7 +18,7 @@
   {
     "nome": "Quark Down", 
     "imagem": "quark-down.png",
-    "descricao": "Lorem ipsum...",
+    "descricao": "É o segundo quark mais leve conhecido, descoberto pelo acelerador linear de Stanford (SLAC) em 1968. Como todos os quarks ele é um férmion de spin ½ e pode interagir através de todas as interações conhecidas da natureza: gravitacional, eletromagnética, força fraca e forte. Junto do quark down é o principal constituinte da matéria, já que prótons são formados por 2 quarks up e 1 down e os nêutrons por 2 quarks down e 1 up, nos dois casos os glúons estabilizam a estrutura de três quarks. Sua carga elétrica é de -1/3 da carga elementar (e) e sua massa é 4,7 MeV/c².",
     "deck": "Gell-Mann",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
@@ -26,7 +26,7 @@
   {
     "nome": "Quark Up", 
     "imagem": "quark-up.png",
-    "descricao": "Lorem ipsum...",
+    "descricao": "É o quark mais leve conhecido, descoberto pelo acelerador linear de Stanford (SLAC) em 1968. Como todos os quarks ele é um férmion de spin ½ e pode interagir através de todas as interações conhecidas da natureza: gravitacional, eletromagnética, força fraca e forte. Junto do quark down é o principal constituinte da matéria, já que prótons são formados por 2 quarks up e 1 down e os nêutrons por 2 quarks down e 1 up, nos dois casos os glúons estabilizam a estrutura de três quarks. Sua carga elétrica é de +2/3 da carga elementar (e) e sua massa é 2,2 MeV/c².",
     "deck": "Gell-Mann",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
@@ -34,7 +34,7 @@
   {
     "nome": "Paul Dirac", 
     "imagem": "dirac.png",
-    "descricao": "Lorem ipsum...",
+    "descricao": "Físico inglês e ganhador, junto com Erwin Schroedinger, do prêmio Nobel de física de 1933 pelo trabalho em mecânica quântica sobre a descrição precisa dos níveis de energia de elétrons em átomos simples. Formulou a equação de Dirac, através da junção da mecânica quântica com relatividade especial e previu a existência de antipartículas, especialmente o pósitron, a antipartícula do elétron.",
     "deck": "Dirac",
     "genio": true,
     "tags": ["tag_1", "tag_2", "tag_3"]
@@ -42,7 +42,7 @@
   {
     "nome": "Elétron", 
     "imagem": "eletron.png",
-    "descricao": "Lorem ipsum...",
+    "descricao": "A primeira partícula elementar descoberta na história da Física, no ano de 1897 pelo física J. J. Thomson. Constituinte básico de toda matéria da tabela periódica e está envolvido na maioria das ligações atômica e moleculares. Possui massa de 0,51 MeV/c², carga elétrica negativa e é um férmion, ou seja, possui spin igual a ½.",
     "deck": "Dirac",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
@@ -50,7 +50,7 @@
   {
     "nome": "Mar de Dirac", 
     "imagem": "mar-de-dirac.png",
-    "descricao": "Lorem ipsum...",
+    "descricao": "Trata-se de um modelo teórico proposto em 1930 no qual afirma que o vácuo era povoado por partículas de energia negativa, antipartículas. Essa afirmação era necessária para lidar com estados de energia negativa previstos pela equação de Dirac. O modelo foi abandonado em meados de 1920 – 1950 quando teorias quânticas de campo tornaram-se os melhores modelos para descrição de partículas elementares.",
     "deck": "Dirac",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
@@ -58,7 +58,7 @@
   {
     "nome": "Pósitron", 
     "imagem": "positron.png",
-    "descricao": "Lorem ipsum...",
+    "descricao": "É a antipartícula do elétron, tem a mesma massa (0,51 MeV/c²), mesmo spin do elétron (1/2) mesma quantidade de carga mas com valor positivo (+e). Foi a primeira antipartícula descoberta. Primeiramente de forma teórica por Dirac em 1928 e comprovada experimentalmente em 1932 pelo físico estadunidense Carl Anderson. Caso um pósitron encontre um elétron, por ser uma reação partícula-antipartícula, ocorrerá uma reação de aniquilação, onde a energia do par elétron-pósitron será convertida em radiação ou fótons.",
     "deck": "Dirac",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
