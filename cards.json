@@ -62,7 +62,7 @@
     "deck": "Dirac",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
-  }
+  },
   {
     "nome": "hidrogenio", 
     "imagem": "hidrogenio.png",
@@ -70,7 +70,7 @@
     "deck": "no",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
-  }
+  },
   {
     "nome": "helio", 
     "imagem": "helio.png",
@@ -78,7 +78,7 @@
     "deck": "no",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
-  }
+  },
 {
     "nome": "aluminio", 
     "imagem": "aluminio.png",
@@ -86,7 +86,7 @@
     "deck": "no",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
-  }
+  },
 {
     "nome": "cobre", 
     "imagem": "cobre.png",
@@ -94,7 +94,7 @@
     "deck": "no",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
-  }
+  },
 {
     "nome": "prata", 
     "imagem": "prata.png",
@@ -102,7 +102,7 @@
     "deck": "no",
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
-  }
+  },
 {
     "nome": "ferro", 
     "imagem": "ferro.png",
