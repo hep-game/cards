@@ -63,6 +63,14 @@
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
   },
+   {
+    "nome": "Feynmann", 
+    "imagem": "feynmann.png",
+    "descricao": "Físico estadunidense, ganhador do prêmio nobel em física de 1965 pela criação da eletrodinâmia quântica. Físico teórico conhecido por usa genialidade, suas habilidades para ensinar física e sua simpatia.",
+    "deck": "Feynmann",
+    "genio": true,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
   /////////////// Átomos /////////////////////////////////////////////////////
   ///////////////////////////////////////////////////////////////////////////
   {
